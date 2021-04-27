@@ -9,6 +9,20 @@ const [projects, setProjects] = useState([
         image: project1, 
         github: "link",
         livesite: "link2"
+    },
+    {
+        name: "Project 2",
+        description: "My Project 1",
+        image: project1, 
+        github: "link",
+        livesite: "link2"
+    },
+    {
+        name: "Project 3",
+        description: "My Project 1",
+        image: project1, 
+        github: "link",
+        livesite: "link2"
     }
 ])
   return (
